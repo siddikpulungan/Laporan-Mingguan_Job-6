@@ -1,5 +1,5 @@
 # Laporan-Mingguan_Job-6
-Nama: Aulia Siddik Pulungan
+Nama: Aulia Siddik Pulungan 
 NPM: 2410017514009
 Prodi: TRKJ
 Mata Kuliah: LAB IV Basic Analog Electronic
